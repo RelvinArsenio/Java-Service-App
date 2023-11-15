@@ -26,4 +26,4 @@ Langkah-langkah untuk menginstal dan menjalankan aplikasi ini adalah sebagai ber
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah lisensi MS-RL. Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut.
+Proyek ini dilisensikan di bawah Eclipse Public License 2.0. Lihat file [LICENSE](./LICENSE) untuk detail lebih lanjut.
